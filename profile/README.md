@@ -1,4 +1,4 @@
-<img src="" width=130% height=130% >
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97498405/244313680-11fc36a1-601b-4b44-94f4-7cfe0b5d0cdb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230608T083017Z&X-Amz-Expires=300&X-Amz-Signature=0db968b88d916a828ebddd20349b7300501c4a4ccdaec652c5b69cb0b76ac283&X-Amz-SignedHeaders=host&actor_id=86557591&key_id=0&repo_id=630306352" width=100% height=100% >
 
 ## 목차
 
@@ -49,22 +49,22 @@ Shinsegae Inc, 404 팀의 웹툰 플랫폼입니다.<br/>
     </td>
     <td>
         <a href="https://github.com/seung-hun2">
-            <img src="" width="100px" />
+            <img src="https://avatars.githubusercontent.com/u/86557591?v=4" width="100px" />
         </a>
     </td>
     <td>
         <a href="https://github.com/ssooyaa">
-            <img src="" width="100px" />
+            <img src="https://avatars.githubusercontent.com/u/110641158?v=4" width="100px" />
         </a>
     </td>
     <td>
         <a href="https://github.com/fuzzfuzz20">
-            <img src="" width="100px" />
+            <img src="https://avatars.githubusercontent.com/u/80227451?v=4" width="100px" />
         </a>
     </td>
     <td>
         <a href="https://github.com/swh9122">
-            <img src="" width="100px" />
+            <img src="https://avatars.githubusercontent.com/u/19218495?v=4" width="100px" />
         </a>
     </td>
   </tr>
@@ -140,6 +140,7 @@ Shinsegae Inc, 404 팀의 웹툰 플랫폼입니다.<br/>
 
 <br>
 <br>
+
 ## ⭐ 이벤트 스토밍
 
 <img src="">
@@ -163,12 +164,13 @@ Shinsegae Inc, 404 팀의 웹툰 플랫폼입니다.<br/>
 <br>
 <br>
 
-## ⭐ ER 다이어그램
+## ⭐ 아키텍쳐
 
 <img src="" width=120%, height=120%>
 
 <br>
 <br>
+
 
 
 ## ⚙️ 프로젝트 실행 방법
@@ -185,11 +187,21 @@ FRONT Repository 연결
 
 ### 환경 변수
 
-```
-BACK Repository 연결 
-```
 
 * 환경 변수를 바탕으로 application.yml 파일을 생성합니다.
+
+[BLOCK-service 환경 변수 설정 방법](https://github.com/N0T-BAD/BE-block)
+
+[PURCHASE-service 환경 변수 설정 방법](https://github.com/N0T-BAD/BE-purchase)
+
+[MEMBER-service 환경 변수 설정 방법](https://github.com/N0T-BAD/BE-member)
+
+[GAME-service 환경 변수 설정 방법](https://github.com/N0T-BAD/BE-game)
+
+[WEBTOON-service 환경 변수 설정 방법](https://github.com/N0T-BAD/BE-webtoon)
+
+[COMMENT-service 환경 변수 설정 방법](https://github.com/N0T-BAD/BE-comment)
+
 
 
 * 위의 과정을 마치고 프로그램을 실행합니다.
