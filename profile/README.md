@@ -86,8 +86,8 @@ Shinsegae Inc, 404 팀의 웹툰 플랫폼입니다.<br/>
     <td><b>구매 서비스<br/>블럭 서비스<br/>CI/CD<br/>카카오페이 결제<br/>Kafka<br/>OpenFeign<br/>레디스 캐싱</b></td>
     <td><b>웹툰 서비스<br/>댓글 서비스<br/>검색, 페이징처리<br/>구글 버킷 연동<br/>(사진 업로드)<br/>Kafka</b></td>
     <td><b>멤버 서비스<br/>게임 서비스<br/>세션 관리<br/>OpenFeign<br/>Kafka</b></td>
-    <td><b>Next Auth<br/>(Kakao API 연동)<br/>카카오 결제 페이지<br/>메인 페이지<br/>블럭 이용 페이지<br/>마이 페이지<br/>작가 웹툰 페이지<br/>관리자 페이지</b></td>
-    <td><b>웹툰 페이지<br/>댓글 페이지<br/>찜 목록<br/>히스토리/<br/>웹툰 구매 내역<br/>검색 페이지</b></td>
+    <td><b>Next Auth<br/>(Kakao API 연동)<br/>카카오 결제 페이지<br/>메인 페이지<br/>블럭 이용 페이지<br/>마이 페이지<br/>작가 웹툰 페이지<br/>관리자 페이지<br/>게임 페이지<br/>보관함</b></td>
+    <td><b>웹툰 페이지<br/>댓글 페이지<br/>찜 목록<br/>히스토리/<br/>웹툰 구매 내역<br/>검색 페이지<br/>스토어</b></td>
   </tr>
 </table>
 
