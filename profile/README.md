@@ -1,4 +1,6 @@
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97498405/244313680-11fc36a1-601b-4b44-94f4-7cfe0b5d0cdb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230608T083017Z&X-Amz-Expires=300&X-Amz-Signature=0db968b88d916a828ebddd20349b7300501c4a4ccdaec652c5b69cb0b76ac283&X-Amz-SignedHeaders=host&actor_id=86557591&key_id=0&repo_id=630306352" width=100% height=100% >
+<div align="center">
+ <img src="https://github.com/N0T-BAD/BE-block/assets/86557591/c9d4b01c-7d34-4b40-8be4-438f26ea66b1" width=50% height=20% >
+</div>
 
 ## 목차
 
@@ -17,15 +19,15 @@
 
 ## 👀 프로젝트 소개
 <div align="center"> 
-<img src="" width=25% height=25%>
+
 <br><br>
 Shinsegae Inc, 404 팀의 웹툰 플랫폼입니다.<br/>
- 블럭툰 서비스는 웹툰 콘텐츠로 다양한 장르와 작가의 작품을 제공하며, 게임 컨텐츠로 사용자들에게 즐거움을 선사하고, NFT 컨텐츠를 통해 작가와 사용자의 상호작용 및 투자 경험을 제공합니다.
-이를 통해 사용자들은 웹툰 플랫폼의 구독자에서 투자자로확대되어 플랫폼에 대한 애착도를 높일 수 있을 것이라 생각됩니다.<br/>
+ 글로벌 웹툰 시장의 성장과 디지털 플랫폼의 보급으로 웹툰 플랫폼이 주목받고 있는 상황에서, 저희는 게임과 NFT를 통해 재미와 흥미를 더한 혁신적인 플랫폼을 개발하였습니다. 출석과 다양한 게임 요소를 통해 사용자들의 참여를 촉진하고, NFT를 활용하여 할인권 개념을 도입하여 독특한 경험을 제공합니다. 이를 통해 웹툰을 더욱 재미있고 상호작용적인 환경으로 만들어 사용자들의 접근성을 향상시키고 새로운 흥미 요소를 제공합니다.<br/>
 
 <br>
 
-[💙 배포 서버 💙](http://blocksite.page)<br/>
+[💙 배포 서버 💙](https://blockpage-eta.vercel.app/)<br/>
+[💙 배포 어드민 서버 💙](https://blockpage-admin.vercel.app/)<br/>
 
 ###### F12를 누르고 개발자 모드, iphone 12로 확인해주세요.
 
@@ -86,8 +88,8 @@ Shinsegae Inc, 404 팀의 웹툰 플랫폼입니다.<br/>
     <td><b>구매 서비스<br/>블럭 서비스<br/>CI/CD<br/>카카오페이 결제<br/>Kafka<br/>OpenFeign<br/>레디스 캐싱</b></td>
     <td><b>웹툰 서비스<br/>댓글 서비스<br/>검색, 페이징처리<br/>구글 버킷 연동<br/>(사진 업로드)<br/>Kafka</b></td>
     <td><b>멤버 서비스<br/>게임 서비스<br/>세션 관리<br/>OpenFeign<br/>Kafka</b></td>
-    <td><b>Next Auth<br/>(Kakao API 연동)<br/>카카오 결제 페이지<br/>메인 페이지<br/>블럭 이용 페이지<br/>마이 페이지<br/>작가 웹툰 페이지<br/>관리자 페이지<br/>게임 페이지<br/>보관함</b></td>
-    <td><b>웹툰 페이지<br/>댓글 페이지<br/>찜 목록<br/>히스토리/<br/>웹툰 구매 내역<br/>검색 페이지<br/>스토어</b></td>
+    <td><b>Next Auth<br/>(Kakao API 연동)<br/>카카오 결제 페이지<br/>메인 페이지<br/>블럭 이용 페이지<br/>마이 페이지<br/>작가 웹툰 페이지<br/>관리자 페이지</b></td>
+    <td><b>웹툰 페이지<br/>댓글 페이지<br/>찜 목록<br/>히스토리/<br/>웹툰 구매 내역<br/>검색 페이지</b></td>
   </tr>
 </table>
 
@@ -116,9 +118,20 @@ Shinsegae Inc, 404 팀의 웹툰 플랫폼입니다.<br/>
 * 블럭툰 카카오 로그인/로그아웃 하기
 * 블럭툰 웹툰 조회하기
 * 블럭툰 웹툰 검색하기
-* 스타벅스 온라인 스토어 상품 공유하기
-* 스타벅스 온라인 스토어 상품 장바구니에 담기
-* 스타벅스 온라인 스토어 결제하기(카카오페이)
+* 출석체크, 게임(룰렛, 번호 뽑기)
+
+<br>
+
+* __작가 등록하기__
+* 웹툰 요청 - 등록, 수정, 삭제
+* 회차 요청 - 등록, 수정, 삭제
+
+<br>
+
+* __Admin 페이지__
+* 웹툰 수정, 삭제 요청 관리
+* 회차 등록, 수정, 삭제 요청 관리
+* 댓글 신고 내역 관리
 
 <br>
 <br>
@@ -127,15 +140,15 @@ Shinsegae Inc, 404 팀의 웹툰 플랫폼입니다.<br/>
 
 
 
-| 🖤 회원 가입 🖤 | | 🖤 무한스크롤 🖤 | | 🖤 검색  🖤 |
+| 🖤 로그인 🖤 | | 🖤 웹툰 조회 🖤 | | 🖤 검색  🖤 |
 | :-------------: |:---:|:-------------: |:---:|:-------------: |
-| ![회원가입 및 로그인 ]()| |![스크롤]() | |![검색]() |
+| ![회원가입 및 로그인 ]()| |![웹툰 조회]() | |![검색]() |
 
 <br>
 
-| 🖤 공유하기 🖤 |  | 🖤 장바구니 🖤 | | 🖤 결제 하기 🖤 |  
+| 🖤 웹툰 등록 🖤 |  | 🖤 에피소드 등록 🖤 | | 🖤 어드민 페이지 🖤 |  
 | :-------------: |:---:|:-------------: |:---:|:-------------: |
- | ![공유]() | |![장바구니]() | |![결제]() |
+ | ![웹툰 등록]() | |![에피소드 등록]() | |![어드민 페이지]() |
 
 
 <br>
@@ -143,7 +156,7 @@ Shinsegae Inc, 404 팀의 웹툰 플랫폼입니다.<br/>
 
 ## ⭐ 이벤트 스토밍
 
-<img src="">
+<img src="https://github.com/N0T-BAD/BE-block/assets/86557591/50e66233-12dd-4622-8852-bab7b7b9ccb1">
 
 
 <br>
@@ -151,7 +164,7 @@ Shinsegae Inc, 404 팀의 웹툰 플랫폼입니다.<br/>
 
 ## ⭐ 보리스 다이어그램
 
-<img src="">
+<img src="https://github.com/N0T-BAD/BE-block/assets/86557591/5df1d807-0c0f-43e7-94ba-8dda6e9d1c39">
 
 
 <br>
@@ -159,14 +172,14 @@ Shinsegae Inc, 404 팀의 웹툰 플랫폼입니다.<br/>
 
 ## ⭐ ER 다이어그램
 
-<img src="" width=120%, height=120%>
+<img src="https://github.com/N0T-BAD/BE-block/assets/86557591/6ba754d7-bed6-49d5-88a8-25524db439f6" width=120%, height=120%>
 
 <br>
 <br>
 
 ## ⭐ 아키텍쳐
 
-<img src="" width=120%, height=120%>
+<img src="https://github.com/N0T-BAD/BE-block/assets/86557591/10e73e61-1f34-4267-bb92-d8e84f6e6c13" width=120%, height=120%>
 
 <br>
 <br>
@@ -175,9 +188,12 @@ Shinsegae Inc, 404 팀의 웹툰 플랫폼입니다.<br/>
 
 ## ⚙️ 프로젝트 실행 방법
 ### FE
-```
-FRONT Repository 연결 
-```
+
+* node.js 설치 및 환경변수 설정
+* npm install
+* npm install yarn
+* yarn
+* 실행중이라면 http://localhost:3000 으로 접속합니다.
 
 ### BE
 백엔드 프로젝트를 실행하기 전 아래 항목들을 실행해주세요.
