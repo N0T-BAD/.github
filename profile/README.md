@@ -26,8 +26,10 @@ Shinsegae Inc, 404 팀의 웹툰 플랫폼입니다.<br/>
 
 <br>
 
-[💙 배포 서버 💙](https://blockpage-eta.vercel.app/)<br/>
-[💙 배포 어드민 서버 💙](https://blockpage-admin.vercel.app/)<br/>
+[~~💙 배포 서버 💙~~](https://blockpage-eta.vercel.app/)<br/>
+[~~💙 배포 어드민 서버 💙~~](https://blockpage-admin.vercel.app/)<br/>
+
+⛔️ 현재 배포중단 상태입니다 ⛔️
 
 ###### F12를 누르고 개발자 모드, iphone 12로 확인해주세요.
 
