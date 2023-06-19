@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/N0T-BAD/BE-block/assets/86557591/c9d4b01c-7d34-4b40-8be4-438f26ea66b1" width=50% height=20% >
+ <img src="https://github.com/N0T-BAD/BE-webtoon/assets/86557591/7c9bbcd7-99eb-4ef5-9ec8-771bb2950e50" width=50% height=20% >
 </div>
 
 ## 목차
